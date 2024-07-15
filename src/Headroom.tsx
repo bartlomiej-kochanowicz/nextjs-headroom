@@ -1,6 +1,8 @@
-mport { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
-import { shouldUpdate } from "./shouldUpdate";
+
+import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
+
+import { shouldUpdate } from "./should-update";
 
 type HeadroomProps = {
   children: React.ReactNode;
@@ -189,7 +191,7 @@ export const Headroom = (headroomProps: HeadroomProps) => {
   }, [handleScroll, handleResize]);
 
   let innerStyle: Record<string, string | number | undefined> = {
-    position: (state.state === "unfixed" ? "relative" : "fixed") as React.CSSProperties["position"],
+    position: (state.state === "unfixed" ? "relative" : "fixed"),
     top: 0,
     left: 0,
     right: 0,
