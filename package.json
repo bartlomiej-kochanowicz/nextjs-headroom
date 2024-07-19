@@ -13,7 +13,6 @@
   },
   "keywords": [],
   "author": "Bart",
-  "license": "ISC",
   "dependencies": {
     "next": "14.2.5",
     "react": "18.3.1"
@@ -24,7 +23,7 @@
     "@rollup/plugin-typescript": "11.1.6",
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
-    "@semantic-release/github": "10.1.0",
+    "@semantic-release/github": "10.1.1",
     "@semantic-release/npm": "12.0.1",
     "@types/react": "18.3.3",
     "rollup": "4.18.1",
