@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/bartlomiej-kochanowicz/nextjs-headroom/compare/v1.0.3...v1.0.4) (2024-07-19)
+
+
+### Bug Fixes
+
+* add unPin callback ([f8c7a2b](https://github.com/bartlomiej-kochanowicz/nextjs-headroom/commit/f8c7a2b7d3972756eb4950d66dd0e759de0e44bc))
+
 ## [1.0.3](https://github.com/bartlomiej-kochanowicz/nextjs-headroom/compare/v1.0.2...v1.0.3) (2024-07-19)
 
 

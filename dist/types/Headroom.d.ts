@@ -6,6 +6,7 @@ type HeadroomProps = {
     downTolerance?: number;
     pinStart?: number;
     style?: React.CSSProperties;
+    onPin?: () => void;
     onUnpin?: () => void;
     onUnfix?: () => void;
 };
