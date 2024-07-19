@@ -1,6 +1,6 @@
 {
   "name": "nextjs-headroom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Modern headroom library which supports Next.js with SSR",
   "author": "Bart Koch <bkochanovitz@gmail.com>",
   "keywords": [
