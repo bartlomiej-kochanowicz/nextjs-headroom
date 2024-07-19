@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/bartlomiej-kochanowicz/nextjs-headroom/compare/v1.0.1...v1.0.2) (2024-07-19)
+
+
+### Bug Fixes
+
+* update readme and package.json ([8951227](https://github.com/bartlomiej-kochanowicz/nextjs-headroom/commit/8951227ff22a94c91acfe46a719c074b2f6d5ebe))
+
 ## [1.0.1](https://github.com/bartlomiej-kochanowicz/nextjs-headroom/compare/v1.0.0...v1.0.1) (2024-07-19)
 
 
