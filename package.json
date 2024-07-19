@@ -1,7 +1,7 @@
 {
   "name": "nextjs-headroom",
-  "version": "1.0.1",
-  "description": "Monern headroom library which supports Next.js with SSR",
+  "version": "1.0.0",
+  "description": "Modern headroom library which supports Next.js with SSR",
   "type": "module",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -11,8 +11,6 @@
     "prepare": "npm run build",
     "semantic-release": "semantic-release --branches main"
   },
-  "keywords": [],
-  "author": "Bart",
   "dependencies": {
     "next": "14.2.5",
     "react": "18.3.1"
