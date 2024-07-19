@@ -1,6 +1,6 @@
 # Nextjs headroom
 
-This is modern version of the (react-headroom)[https://www.npmjs.com/package/react-headroom] package, adopted to the (nextjs)[https://nextjs.org/] framework.
+This is modern version of the [react-headroom](https://www.npmjs.com/package/react-headroom)package, adopted to the [nextjs](https://nextjs.org/) framework.
 
 # Install
 
