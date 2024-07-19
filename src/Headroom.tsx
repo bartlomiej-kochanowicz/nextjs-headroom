@@ -11,6 +11,7 @@ type HeadroomProps = {
   downTolerance?: number;
   pinStart?: number;
   style?: React.CSSProperties;
+  onPin?: () => void;
   onUnpin?: () => void;
   onUnfix?: () => void;
 };
@@ -99,6 +100,8 @@ export const Headroom = (headroomProps: HeadroomProps) => {
   );
 
   const pin = () => {
+    props.onPin?.();
+
     setState((prev) => ({
       ...prev,
       translateY: 0,
