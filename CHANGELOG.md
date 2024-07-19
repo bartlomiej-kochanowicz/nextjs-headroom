@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/bartlomiej-kochanowicz/nextjs-headroom/compare/v1.0.0...v1.0.1) (2024-07-19)
+
+
+### Bug Fixes
+
+* update deps ([83e7e99](https://github.com/bartlomiej-kochanowicz/nextjs-headroom/commit/83e7e998b675bce4c56d495e5acc07c88b08e19b))
+
 # 1.0.0 (2024-07-19)
 
 
