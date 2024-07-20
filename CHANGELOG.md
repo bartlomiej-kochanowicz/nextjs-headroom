@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/bartlomiej-kochanowicz/nextjs-headroom/compare/v1.0.4...v1.0.5) (2024-07-20)
+
+
+### Bug Fixes
+
+* ignore dist ([3f34d59](https://github.com/bartlomiej-kochanowicz/nextjs-headroom/commit/3f34d597bc659960a9913a462c717ff528e5b167))
+
 ## [1.0.4](https://github.com/bartlomiej-kochanowicz/nextjs-headroom/compare/v1.0.3...v1.0.4) (2024-07-19)
 
 
